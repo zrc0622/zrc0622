@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rongchang Zuo, you can also call me Zuozuo
 - 👀 I’m interested in computer vision and machine learning
-- 🌱 I’m currently learning limitation learning
+- 🌱 I’m currently learning imitation learning
 - 📫 How to reach me 1727950162@qq.com
