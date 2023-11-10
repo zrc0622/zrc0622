@@ -5,4 +5,4 @@
 - 🏫 I’m currently an undergraduate student at HIT
 - 👀 I’m interested in computer vision and machine learning
 - 🌱 I’m currently learning imitation learning
-- 📫 How to reach me: 1727950162@qq.com
+- 📫 How to reach me：1727950162@qq.com
