@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Rongchang Zuo
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
