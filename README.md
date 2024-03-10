@@ -9,4 +9,4 @@
 
 <!-- <img src="https://streak-stats.demolab.com/?user=Decade-qiu"> -->
 <p> &nbsp;</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Decade-qiu&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zrc0622&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
