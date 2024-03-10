@@ -12,7 +12,7 @@
 <h3> 🙋🏻‍♂️ &nbsp;About Me </h3>
 
   - 🤔 &nbsp; Conducting research in reinforcement learning with a focus on its explainability aspects.
-  - 🎓 &nbsp; A third-year undergraduate student at the School of Future Technology, Harbin Institute of Technology.
+  - 🎓 &nbsp; A junior student at the School of Future Technology, Harbin Institute of Technology.
   - 🌱 &nbsp; Studying both RL and IL, with additional interests in other AI fields such as CV and NLP.
   - ✍️ &nbsp; Enjoying getting tipsy, watching movies and playing basketball in my leisure time.
 
