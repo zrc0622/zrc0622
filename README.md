@@ -6,3 +6,7 @@
 - 👀 I’m interested in computer vision and machine learning
 - 🌱 I’m currently learning imitation learning
 - 📫 How to reach me: 2021110788@stu.hit.edu.cn
+
+<!-- <img src="https://streak-stats.demolab.com/?user=Decade-qiu"> -->
+<p> &nbsp;</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Decade-qiu&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
