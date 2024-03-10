@@ -7,7 +7,7 @@
   </div>
 </h1>
 
-<img align="right" width="180" src="https://github.com/zrc0622/zrc0622/cosmonaut.png">
+<img align="right" width="180" src="https://github.com/zrc0622/zrc0622/blob/main/cosmonaut.png">
 
 <h3> 🙋🏻‍♂️ &nbsp;About Me </h3>
 
