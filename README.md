@@ -23,6 +23,10 @@
 
    - You can reach me via email at 2021110788@stu.hit.edu.cn. If I don't respond promptly, please try sending the email again.
 
+<h3> 🌸 &nbsp;A Bright Future with A Path Full of Flowers</h3>
+
+<img align="left" width="600" src="https://github.com/zrc0622/zrc0622/blob/main/flower.jpeg">
+
 <!--
 <div>
   <span align="left">
