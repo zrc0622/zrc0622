@@ -25,7 +25,9 @@
 
 <h3> 🌸 &nbsp;A Bright Future with A Path Full of Flowers</h3>
 
-<img align="left" width="600" src="https://github.com/zrc0622/zrc0622/blob/main/flower.jpeg">
+<p align="center" >
+  <img src="https://github.com/zrc0622/zrc0622/blob/main/flower2.jpeg" width="950">
+</p>
 
 <!--
 <div>
