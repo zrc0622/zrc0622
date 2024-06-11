@@ -58,7 +58,7 @@
 
 <!-- <img src="https://streak-stats.demolab.com/?user=Decade-qiu"> -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zrc0622&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=zrc0622&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy"> --> 
 
 <!--
 <img align="right" width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrc0622&layout=compact&langs_count=4">  
