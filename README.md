@@ -10,7 +10,7 @@
 <img align="right" width="175" src="https://camo.githubusercontent.com/5124bc64baa72108c343f25e8d9dd1680c99d2b9559b5b313c43761dd48ca743/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f617374726f6e6175742e706e67">
 -->
 
-<img align="right" width="175" src="./img/cosmonaut">
+<img align="right" width="175" src="./images/cosmonaut">
 
 <h3> 🙋🏻‍♂️ &nbsp;About Me </h3>
 
@@ -26,7 +26,7 @@
 <h3> 🌸 &nbsp;Wish You and Me a Bright Future and Roses All the Way</h3>
 
 <p align="center" >
-  <img src="./img/flower_round7.png" width="950">
+  <img src="./images/flower_round7.png" width="950">
 </p>
 
 <!--
