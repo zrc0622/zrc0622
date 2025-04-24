@@ -14,14 +14,14 @@
 
 <h3> 🙋🏻‍♂️ &nbsp;About Me </h3>
 
-  - 🤔 &nbsp; Conducting research in reinforcement learning with a focus on its explainability aspects.
+  - 🤔 &nbsp; Conducting research in RL with a particular focus on MARL.
   - 🎓 &nbsp; A senior student at the School of Future Technology, Harbin Institute of Technology.
-  - 🌱 &nbsp; Studying both IL and RL, with additional interests in other AI fields such as LLM and NLP.
+  - 🌱 &nbsp; Exploring both IL and RL, with additional interests in other AI fields such as LLM and SRA.
   - ✍️ &nbsp; Enjoying getting tipsy, watching movies and playing basketball in my leisure time.
 
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
-   - You can reach me via email at 2021110788@stu.hit.edu.cn. If I don't respond promptly, please try sending the email again.
+   - You can reach me via email at zuorc.cn@gmail.com. If I don't respond promptly, please try sending the email again.
 
 <!--
 <h3> 🌸 &nbsp;Wish You and Me a Bright Future and Roses All the Way</h3>
