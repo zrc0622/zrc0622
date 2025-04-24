@@ -23,11 +23,13 @@
 
    - You can reach me via email at 2021110788@stu.hit.edu.cn. If I don't respond promptly, please try sending the email again.
 
+<!--
 <h3> 🌸 &nbsp;Wish You and Me a Bright Future and Roses All the Way</h3>
 
 <p align="center" >
   <img src="./images/flower_round7.png" width="950">
 </p>
+--!>
 
 <!--
 <div>
