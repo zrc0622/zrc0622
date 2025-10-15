@@ -14,10 +14,10 @@
 
 <h3> 🙋🏻‍♂️ &nbsp;About Me </h3>
 
-  - 🤔 &nbsp; Conducting research in RL with a particular focus on MARL.
-  - 🎓 &nbsp; A senior student at the School of Future Technology, Harbin Institute of Technology.
-  - 🌱 &nbsp; Exploring both IL and RL, with additional interests in other AI fields such as LLM and SRA.
-  - ✍️ &nbsp; Enjoying getting tipsy, watching movies and playing basketball in my leisure time.
+  - 🤔 &nbsp; Conducting research in Embodied AI with a particular focus on VLA.
+  - 🎓 &nbsp; A Master's student in Artificial Intelligence at Tsinghua University.
+  - 🌱 &nbsp; Exploring VLA, with additional interests in other AI fields such as VLM and SRA.
+  - ✍️ &nbsp; Enjoying a casual drink, watching movies and playing basketball in my leisure time.
 
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
