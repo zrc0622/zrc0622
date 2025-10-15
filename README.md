@@ -15,7 +15,7 @@
 <h3> 🙋🏻‍♂️ &nbsp;About Me </h3>
 
   - 🤔 &nbsp; Conducting research in Embodied AI with a particular focus on VLA.
-  - 🎓 &nbsp; A Master's student in Artificial Intelligence at Tsinghua University.
+  - 🎓 &nbsp; A master's student in Artificial Intelligence at Tsinghua University.
   - 🌱 &nbsp; Exploring VLA, with additional interests in other AI fields such as VLM and SRA.
   - ✍️ &nbsp; Enjoying a casual drink, watching movies and playing basketball in my leisure time.
 
