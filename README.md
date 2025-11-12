@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Rongchang Zuo </h1>
+<!-- 
 <h1 align="center">Hi 👋, I'm Rongchang Zuo
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
@@ -73,4 +75,4 @@
 
 <p> &nbsp;</p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zrc0622&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
--->
+--> -->
